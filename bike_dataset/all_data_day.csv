@@ -1,0 +1,732 @@
+dteday,year,month,weekday,season,weather_description,cnt,registered,casual,temp
+2011-01-01,2011,January,Saturday,Spring,Partly Cloudy,985,654,331,0.344167
+2011-01-02,2011,January,Sunday,Spring,Partly Cloudy,801,670,131,0.363478
+2011-01-03,2011,January,Monday,Spring,Clear,1349,1229,120,0.196364
+2011-01-04,2011,January,Tuesday,Spring,Clear,1562,1454,108,0.2
+2011-01-05,2011,January,Wednesday,Spring,Clear,1600,1518,82,0.226957
+2011-01-06,2011,January,Thursday,Spring,Clear,1606,1518,88,0.204348
+2011-01-07,2011,January,Friday,Spring,Partly Cloudy,1510,1362,148,0.196522
+2011-01-08,2011,January,Saturday,Spring,Partly Cloudy,959,891,68,0.165
+2011-01-09,2011,January,Sunday,Spring,Clear,822,768,54,0.138333
+2011-01-10,2011,January,Monday,Spring,Clear,1321,1280,41,0.150833
+2011-01-11,2011,January,Tuesday,Spring,Partly Cloudy,1263,1220,43,0.169091
+2011-01-12,2011,January,Wednesday,Spring,Clear,1162,1137,25,0.172727
+2011-01-13,2011,January,Thursday,Spring,Clear,1406,1368,38,0.165
+2011-01-14,2011,January,Friday,Spring,Clear,1421,1367,54,0.16087
+2011-01-15,2011,January,Saturday,Spring,Partly Cloudy,1248,1026,222,0.233333
+2011-01-16,2011,January,Sunday,Spring,Clear,1204,953,251,0.231667
+2011-01-17,2011,January,Monday,Spring,Partly Cloudy,1000,883,117,0.175833
+2011-01-18,2011,January,Tuesday,Spring,Partly Cloudy,683,674,9,0.216667
+2011-01-19,2011,January,Wednesday,Spring,Partly Cloudy,1650,1572,78,0.292174
+2011-01-20,2011,January,Thursday,Spring,Partly Cloudy,1927,1844,83,0.261667
+2011-01-21,2011,January,Friday,Spring,Clear,1543,1468,75,0.1775
+2011-01-22,2011,January,Saturday,Spring,Clear,981,888,93,0.0591304
+2011-01-23,2011,January,Sunday,Spring,Clear,986,836,150,0.0965217
+2011-01-24,2011,January,Monday,Spring,Clear,1416,1330,86,0.0973913
+2011-01-25,2011,January,Tuesday,Spring,Partly Cloudy,1985,1799,186,0.223478
+2011-01-26,2011,January,Wednesday,Spring,Light Snow/Rain,506,472,34,0.2175
+2011-01-27,2011,January,Thursday,Spring,Clear,431,416,15,0.195
+2011-01-28,2011,January,Friday,Spring,Partly Cloudy,1167,1129,38,0.203478
+2011-01-29,2011,January,Saturday,Spring,Clear,1098,975,123,0.196522
+2011-01-30,2011,January,Sunday,Spring,Clear,1096,956,140,0.216522
+2011-01-31,2011,January,Monday,Spring,Partly Cloudy,1501,1459,42,0.180833
+2011-02-01,2011,February,Tuesday,Spring,Partly Cloudy,1360,1313,47,0.192174
+2011-02-02,2011,February,Wednesday,Spring,Partly Cloudy,1526,1454,72,0.26
+2011-02-03,2011,February,Thursday,Spring,Clear,1550,1489,61,0.186957
+2011-02-04,2011,February,Friday,Spring,Partly Cloudy,1708,1620,88,0.211304
+2011-02-05,2011,February,Saturday,Spring,Partly Cloudy,1005,905,100,0.233333
+2011-02-06,2011,February,Sunday,Spring,Clear,1623,1269,354,0.285833
+2011-02-07,2011,February,Monday,Spring,Clear,1712,1592,120,0.271667
+2011-02-08,2011,February,Tuesday,Spring,Clear,1530,1466,64,0.220833
+2011-02-09,2011,February,Wednesday,Spring,Partly Cloudy,1605,1552,53,0.134783
+2011-02-10,2011,February,Thursday,Spring,Clear,1538,1491,47,0.144348
+2011-02-11,2011,February,Friday,Spring,Clear,1746,1597,149,0.189091
+2011-02-12,2011,February,Saturday,Spring,Clear,1472,1184,288,0.2225
+2011-02-13,2011,February,Sunday,Spring,Clear,1589,1192,397,0.316522
+2011-02-14,2011,February,Monday,Spring,Clear,1913,1705,208,0.415
+2011-02-15,2011,February,Tuesday,Spring,Clear,1815,1675,140,0.266087
+2011-02-16,2011,February,Wednesday,Spring,Clear,2115,1897,218,0.318261
+2011-02-17,2011,February,Thursday,Spring,Clear,2475,2216,259,0.435833
+2011-02-18,2011,February,Friday,Spring,Clear,2927,2348,579,0.521667
+2011-02-19,2011,February,Saturday,Spring,Clear,1635,1103,532,0.399167
+2011-02-20,2011,February,Sunday,Spring,Clear,1812,1173,639,0.285217
+2011-02-21,2011,February,Monday,Spring,Partly Cloudy,1107,912,195,0.303333
+2011-02-22,2011,February,Tuesday,Spring,Clear,1450,1376,74,0.182222
+2011-02-23,2011,February,Wednesday,Spring,Clear,1917,1778,139,0.221739
+2011-02-24,2011,February,Thursday,Spring,Partly Cloudy,1807,1707,100,0.295652
+2011-02-25,2011,February,Friday,Spring,Partly Cloudy,1461,1341,120,0.364348
+2011-02-26,2011,February,Saturday,Spring,Clear,1969,1545,424,0.2825
+2011-02-27,2011,February,Sunday,Spring,Clear,2402,1708,694,0.343478
+2011-02-28,2011,February,Monday,Spring,Partly Cloudy,1446,1365,81,0.407273
+2011-03-01,2011,March,Tuesday,Spring,Clear,1851,1714,137,0.266667
+2011-03-02,2011,March,Wednesday,Spring,Clear,2134,1903,231,0.335
+2011-03-03,2011,March,Thursday,Spring,Clear,1685,1562,123,0.198333
+2011-03-04,2011,March,Friday,Spring,Partly Cloudy,1944,1730,214,0.261667
+2011-03-05,2011,March,Saturday,Spring,Partly Cloudy,2077,1437,640,0.384167
+2011-03-06,2011,March,Sunday,Spring,Partly Cloudy,605,491,114,0.376522
+2011-03-07,2011,March,Monday,Spring,Clear,1872,1628,244,0.261739
+2011-03-08,2011,March,Tuesday,Spring,Clear,2133,1817,316,0.2925
+2011-03-09,2011,March,Wednesday,Spring,Partly Cloudy,1891,1700,191,0.295833
+2011-03-10,2011,March,Thursday,Spring,Light Snow/Rain,623,577,46,0.389091
+2011-03-11,2011,March,Friday,Spring,Partly Cloudy,1977,1730,247,0.316522
+2011-03-12,2011,March,Saturday,Spring,Clear,2132,1408,724,0.329167
+2011-03-13,2011,March,Sunday,Spring,Clear,2417,1435,982,0.384348
+2011-03-14,2011,March,Monday,Spring,Clear,2046,1687,359,0.325217
+2011-03-15,2011,March,Tuesday,Spring,Partly Cloudy,2056,1767,289,0.317391
+2011-03-16,2011,March,Wednesday,Spring,Partly Cloudy,2192,1871,321,0.365217
+2011-03-17,2011,March,Thursday,Spring,Clear,2744,2320,424,0.415
+2011-03-18,2011,March,Friday,Spring,Clear,3239,2355,884,0.54
+2011-03-19,2011,March,Saturday,Spring,Clear,3117,1693,1424,0.4725
+2011-03-20,2011,March,Sunday,Spring,Clear,2471,1424,1047,0.3325
+2011-03-21,2011,March,Monday,Summer,Partly Cloudy,2077,1676,401,0.430435
+2011-03-22,2011,March,Tuesday,Summer,Clear,2703,2243,460,0.441667
+2011-03-23,2011,March,Wednesday,Summer,Partly Cloudy,2121,1918,203,0.346957
+2011-03-24,2011,March,Thursday,Summer,Partly Cloudy,1865,1699,166,0.285
+2011-03-25,2011,March,Friday,Summer,Clear,2210,1910,300,0.264167
+2011-03-26,2011,March,Saturday,Summer,Clear,2496,1515,981,0.265833
+2011-03-27,2011,March,Sunday,Summer,Partly Cloudy,1693,1221,472,0.253043
+2011-03-28,2011,March,Monday,Summer,Clear,2028,1806,222,0.264348
+2011-03-29,2011,March,Tuesday,Summer,Clear,2425,2108,317,0.3025
+2011-03-30,2011,March,Wednesday,Summer,Partly Cloudy,1536,1368,168,0.3
+2011-03-31,2011,March,Thursday,Summer,Light Snow/Rain,1685,1506,179,0.268333
+2011-04-01,2011,April,Friday,Summer,Partly Cloudy,2227,1920,307,0.3
+2011-04-02,2011,April,Saturday,Summer,Partly Cloudy,2252,1354,898,0.315
+2011-04-03,2011,April,Sunday,Summer,Clear,3249,1598,1651,0.378333
+2011-04-04,2011,April,Monday,Summer,Clear,3115,2381,734,0.573333
+2011-04-05,2011,April,Tuesday,Summer,Partly Cloudy,1795,1628,167,0.414167
+2011-04-06,2011,April,Wednesday,Summer,Clear,2808,2395,413,0.390833
+2011-04-07,2011,April,Thursday,Summer,Clear,3141,2570,571,0.4375
+2011-04-08,2011,April,Friday,Summer,Partly Cloudy,1471,1299,172,0.335833
+2011-04-09,2011,April,Saturday,Summer,Partly Cloudy,2455,1576,879,0.3425
+2011-04-10,2011,April,Sunday,Summer,Partly Cloudy,2895,1707,1188,0.426667
+2011-04-11,2011,April,Monday,Summer,Partly Cloudy,3348,2493,855,0.595652
+2011-04-12,2011,April,Tuesday,Summer,Partly Cloudy,2034,1777,257,0.5025
+2011-04-13,2011,April,Wednesday,Summer,Partly Cloudy,2162,1953,209,0.4125
+2011-04-14,2011,April,Thursday,Summer,Clear,3267,2738,529,0.4675
+2011-04-15,2011,April,Friday,Summer,Clear,3126,2484,642,0.446667
+2011-04-16,2011,April,Saturday,Summer,Light Snow/Rain,795,674,121,0.430833
+2011-04-17,2011,April,Sunday,Summer,Clear,3744,2186,1558,0.456667
+2011-04-18,2011,April,Monday,Summer,Clear,3429,2760,669,0.5125
+2011-04-19,2011,April,Tuesday,Summer,Partly Cloudy,3204,2795,409,0.505833
+2011-04-20,2011,April,Wednesday,Summer,Clear,3944,3331,613,0.595
+2011-04-21,2011,April,Thursday,Summer,Clear,4189,3444,745,0.459167
+2011-04-22,2011,April,Friday,Summer,Partly Cloudy,1683,1506,177,0.336667
+2011-04-23,2011,April,Saturday,Summer,Partly Cloudy,4036,2574,1462,0.46
+2011-04-24,2011,April,Sunday,Summer,Partly Cloudy,4191,2481,1710,0.581667
+2011-04-25,2011,April,Monday,Summer,Clear,4073,3300,773,0.606667
+2011-04-26,2011,April,Tuesday,Summer,Clear,4400,3722,678,0.631667
+2011-04-27,2011,April,Wednesday,Summer,Partly Cloudy,3872,3325,547,0.62
+2011-04-28,2011,April,Thursday,Summer,Partly Cloudy,4058,3489,569,0.6175
+2011-04-29,2011,April,Friday,Summer,Clear,4595,3717,878,0.51
+2011-04-30,2011,April,Saturday,Summer,Clear,5312,3347,1965,0.4725
+2011-05-01,2011,May,Sunday,Summer,Partly Cloudy,3351,2213,1138,0.451667
+2011-05-02,2011,May,Monday,Summer,Partly Cloudy,4401,3554,847,0.549167
+2011-05-03,2011,May,Tuesday,Summer,Partly Cloudy,4451,3848,603,0.616667
+2011-05-04,2011,May,Wednesday,Summer,Partly Cloudy,2633,2378,255,0.414167
+2011-05-05,2011,May,Thursday,Summer,Clear,4433,3819,614,0.459167
+2011-05-06,2011,May,Friday,Summer,Clear,4608,3714,894,0.479167
+2011-05-07,2011,May,Saturday,Summer,Clear,4714,3102,1612,0.52
+2011-05-08,2011,May,Sunday,Summer,Clear,4333,2932,1401,0.528333
+2011-05-09,2011,May,Monday,Summer,Clear,4362,3698,664,0.5325
+2011-05-10,2011,May,Tuesday,Summer,Clear,4803,4109,694,0.5325
+2011-05-11,2011,May,Wednesday,Summer,Clear,4182,3632,550,0.5425
+2011-05-12,2011,May,Thursday,Summer,Clear,4864,4169,695,0.535
+2011-05-13,2011,May,Friday,Summer,Partly Cloudy,4105,3413,692,0.5125
+2011-05-14,2011,May,Saturday,Summer,Partly Cloudy,3409,2507,902,0.520833
+2011-05-15,2011,May,Sunday,Summer,Partly Cloudy,4553,2971,1582,0.5625
+2011-05-16,2011,May,Monday,Summer,Clear,3958,3185,773,0.5775
+2011-05-17,2011,May,Tuesday,Summer,Partly Cloudy,4123,3445,678,0.561667
+2011-05-18,2011,May,Wednesday,Summer,Partly Cloudy,3855,3319,536,0.55
+2011-05-19,2011,May,Thursday,Summer,Partly Cloudy,4575,3840,735,0.530833
+2011-05-20,2011,May,Friday,Summer,Clear,4917,4008,909,0.536667
+2011-05-21,2011,May,Saturday,Summer,Clear,5805,3547,2258,0.6025
+2011-05-22,2011,May,Sunday,Summer,Clear,4660,3084,1576,0.604167
+2011-05-23,2011,May,Monday,Summer,Partly Cloudy,4274,3438,836,0.631667
+2011-05-24,2011,May,Tuesday,Summer,Partly Cloudy,4492,3833,659,0.66
+2011-05-25,2011,May,Wednesday,Summer,Clear,4978,4238,740,0.660833
+2011-05-26,2011,May,Thursday,Summer,Clear,4677,3919,758,0.708333
+2011-05-27,2011,May,Friday,Summer,Clear,4679,3808,871,0.681667
+2011-05-28,2011,May,Saturday,Summer,Clear,4758,2757,2001,0.655833
+2011-05-29,2011,May,Sunday,Summer,Clear,4788,2433,2355,0.6675
+2011-05-30,2011,May,Monday,Summer,Clear,4098,2549,1549,0.733333
+2011-05-31,2011,May,Tuesday,Summer,Clear,3982,3309,673,0.775
+2011-06-01,2011,June,Wednesday,Summer,Partly Cloudy,3974,3461,513,0.764167
+2011-06-02,2011,June,Thursday,Summer,Clear,4968,4232,736,0.715
+2011-06-03,2011,June,Friday,Summer,Clear,5312,4414,898,0.62
+2011-06-04,2011,June,Saturday,Summer,Clear,5342,3473,1869,0.635
+2011-06-05,2011,June,Sunday,Summer,Partly Cloudy,4906,3221,1685,0.648333
+2011-06-06,2011,June,Monday,Summer,Clear,4548,3875,673,0.678333
+2011-06-07,2011,June,Tuesday,Summer,Clear,4833,4070,763,0.7075
+2011-06-08,2011,June,Wednesday,Summer,Clear,4401,3725,676,0.775833
+2011-06-09,2011,June,Thursday,Summer,Partly Cloudy,3915,3352,563,0.808333
+2011-06-10,2011,June,Friday,Summer,Clear,4586,3771,815,0.755
+2011-06-11,2011,June,Saturday,Summer,Clear,4966,3237,1729,0.725
+2011-06-12,2011,June,Sunday,Summer,Clear,4460,2993,1467,0.6925
+2011-06-13,2011,June,Monday,Summer,Clear,5020,4157,863,0.635
+2011-06-14,2011,June,Tuesday,Summer,Clear,4891,4164,727,0.604167
+2011-06-15,2011,June,Wednesday,Summer,Clear,5180,4411,769,0.626667
+2011-06-16,2011,June,Thursday,Summer,Partly Cloudy,3767,3222,545,0.628333
+2011-06-17,2011,June,Friday,Summer,Clear,4844,3981,863,0.649167
+2011-06-18,2011,June,Saturday,Summer,Clear,5119,3312,1807,0.696667
+2011-06-19,2011,June,Sunday,Summer,Partly Cloudy,4744,3105,1639,0.699167
+2011-06-20,2011,June,Monday,Summer,Partly Cloudy,4010,3311,699,0.635
+2011-06-21,2011,June,Tuesday,Autumn,Partly Cloudy,4835,4061,774,0.680833
+2011-06-22,2011,June,Wednesday,Autumn,Clear,4507,3846,661,0.733333
+2011-06-23,2011,June,Thursday,Autumn,Partly Cloudy,4790,4044,746,0.728333
+2011-06-24,2011,June,Friday,Autumn,Clear,4991,4022,969,0.724167
+2011-06-25,2011,June,Saturday,Autumn,Clear,5202,3420,1782,0.695
+2011-06-26,2011,June,Sunday,Autumn,Clear,5305,3385,1920,0.68
+2011-06-27,2011,June,Monday,Autumn,Partly Cloudy,4708,3854,854,0.6825
+2011-06-28,2011,June,Tuesday,Autumn,Clear,4648,3916,732,0.744167
+2011-06-29,2011,June,Wednesday,Autumn,Clear,5225,4377,848,0.728333
+2011-06-30,2011,June,Thursday,Autumn,Clear,5515,4488,1027,0.696667
+2011-07-01,2011,July,Friday,Autumn,Clear,5362,4116,1246,0.7225
+2011-07-02,2011,July,Saturday,Autumn,Clear,5119,2915,2204,0.738333
+2011-07-03,2011,July,Sunday,Autumn,Partly Cloudy,4649,2367,2282,0.716667
+2011-07-04,2011,July,Monday,Autumn,Partly Cloudy,6043,2978,3065,0.726667
+2011-07-05,2011,July,Tuesday,Autumn,Clear,4665,3634,1031,0.746667
+2011-07-06,2011,July,Wednesday,Autumn,Clear,4629,3845,784,0.72
+2011-07-07,2011,July,Thursday,Autumn,Clear,4592,3838,754,0.75
+2011-07-08,2011,July,Friday,Autumn,Partly Cloudy,4040,3348,692,0.709167
+2011-07-09,2011,July,Saturday,Autumn,Clear,5336,3348,1988,0.733333
+2011-07-10,2011,July,Sunday,Autumn,Clear,4881,3138,1743,0.7475
+2011-07-11,2011,July,Monday,Autumn,Clear,4086,3363,723,0.7625
+2011-07-12,2011,July,Tuesday,Autumn,Clear,4258,3596,662,0.794167
+2011-07-13,2011,July,Wednesday,Autumn,Clear,4342,3594,748,0.746667
+2011-07-14,2011,July,Thursday,Autumn,Clear,5084,4196,888,0.680833
+2011-07-15,2011,July,Friday,Autumn,Clear,5538,4220,1318,0.663333
+2011-07-16,2011,July,Saturday,Autumn,Clear,5923,3505,2418,0.686667
+2011-07-17,2011,July,Sunday,Autumn,Clear,5302,3296,2006,0.719167
+2011-07-18,2011,July,Monday,Autumn,Clear,4458,3617,841,0.746667
+2011-07-19,2011,July,Tuesday,Autumn,Clear,4541,3789,752,0.776667
+2011-07-20,2011,July,Wednesday,Autumn,Clear,4332,3688,644,0.768333
+2011-07-21,2011,July,Thursday,Autumn,Partly Cloudy,3784,3152,632,0.815
+2011-07-22,2011,July,Friday,Autumn,Clear,3387,2825,562,0.848333
+2011-07-23,2011,July,Saturday,Autumn,Clear,3285,2298,987,0.849167
+2011-07-24,2011,July,Sunday,Autumn,Clear,3606,2556,1050,0.83
+2011-07-25,2011,July,Monday,Autumn,Clear,3840,3272,568,0.743333
+2011-07-26,2011,July,Tuesday,Autumn,Clear,4590,3840,750,0.771667
+2011-07-27,2011,July,Wednesday,Autumn,Clear,4656,3901,755,0.775
+2011-07-28,2011,July,Thursday,Autumn,Clear,4390,3784,606,0.779167
+2011-07-29,2011,July,Friday,Autumn,Clear,3846,3176,670,0.838333
+2011-07-30,2011,July,Saturday,Autumn,Clear,4475,2916,1559,0.804167
+2011-07-31,2011,July,Sunday,Autumn,Clear,4302,2778,1524,0.805833
+2011-08-01,2011,August,Monday,Autumn,Clear,4266,3537,729,0.771667
+2011-08-02,2011,August,Tuesday,Autumn,Clear,4845,4044,801,0.783333
+2011-08-03,2011,August,Wednesday,Autumn,Partly Cloudy,3574,3107,467,0.731667
+2011-08-04,2011,August,Thursday,Autumn,Partly Cloudy,4576,3777,799,0.71
+2011-08-05,2011,August,Friday,Autumn,Clear,4866,3843,1023,0.710833
+2011-08-06,2011,August,Saturday,Autumn,Partly Cloudy,4294,2773,1521,0.716667
+2011-08-07,2011,August,Sunday,Autumn,Clear,3785,2487,1298,0.7425
+2011-08-08,2011,August,Monday,Autumn,Clear,4326,3480,846,0.765
+2011-08-09,2011,August,Tuesday,Autumn,Clear,4602,3695,907,0.775
+2011-08-10,2011,August,Wednesday,Autumn,Clear,4780,3896,884,0.766667
+2011-08-11,2011,August,Thursday,Autumn,Clear,4792,3980,812,0.7175
+2011-08-12,2011,August,Friday,Autumn,Clear,4905,3854,1051,0.708333
+2011-08-13,2011,August,Saturday,Autumn,Partly Cloudy,4150,2646,1504,0.685833
+2011-08-14,2011,August,Sunday,Autumn,Partly Cloudy,3820,2482,1338,0.676667
+2011-08-15,2011,August,Monday,Autumn,Clear,4338,3563,775,0.665833
+2011-08-16,2011,August,Tuesday,Autumn,Clear,4725,4004,721,0.700833
+2011-08-17,2011,August,Wednesday,Autumn,Clear,4694,4026,668,0.723333
+2011-08-18,2011,August,Thursday,Autumn,Clear,3805,3166,639,0.711667
+2011-08-19,2011,August,Friday,Autumn,Partly Cloudy,4153,3356,797,0.685
+2011-08-20,2011,August,Saturday,Autumn,Clear,5191,3277,1914,0.6975
+2011-08-21,2011,August,Sunday,Autumn,Clear,3873,2624,1249,0.710833
+2011-08-22,2011,August,Monday,Autumn,Clear,4758,3925,833,0.691667
+2011-08-23,2011,August,Tuesday,Autumn,Clear,5895,4614,1281,0.640833
+2011-08-24,2011,August,Wednesday,Autumn,Clear,5130,4181,949,0.673333
+2011-08-25,2011,August,Thursday,Autumn,Partly Cloudy,3542,3107,435,0.684167
+2011-08-26,2011,August,Friday,Autumn,Clear,4661,3893,768,0.7
+2011-08-27,2011,August,Saturday,Autumn,Partly Cloudy,1115,889,226,0.68
+2011-08-28,2011,August,Sunday,Autumn,Clear,4334,2919,1415,0.707059
+2011-08-29,2011,August,Monday,Autumn,Clear,4634,3905,729,0.636667
+2011-08-30,2011,August,Tuesday,Autumn,Clear,5204,4429,775,0.639167
+2011-08-31,2011,August,Wednesday,Autumn,Clear,5058,4370,688,0.656667
+2011-09-01,2011,September,Thursday,Autumn,Clear,5115,4332,783,0.655
+2011-09-02,2011,September,Friday,Autumn,Partly Cloudy,4727,3852,875,0.643333
+2011-09-03,2011,September,Saturday,Autumn,Clear,4484,2549,1935,0.669167
+2011-09-04,2011,September,Sunday,Autumn,Clear,4940,2419,2521,0.709167
+2011-09-05,2011,September,Monday,Autumn,Partly Cloudy,3351,2115,1236,0.673333
+2011-09-06,2011,September,Tuesday,Autumn,Light Snow/Rain,2710,2506,204,0.54
+2011-09-07,2011,September,Wednesday,Autumn,Light Snow/Rain,1996,1878,118,0.599167
+2011-09-08,2011,September,Thursday,Autumn,Light Snow/Rain,1842,1689,153,0.633913
+2011-09-09,2011,September,Friday,Autumn,Partly Cloudy,3544,3127,417,0.65
+2011-09-10,2011,September,Saturday,Autumn,Clear,5345,3595,1750,0.66
+2011-09-11,2011,September,Sunday,Autumn,Clear,5046,3413,1633,0.653333
+2011-09-12,2011,September,Monday,Autumn,Clear,4713,4023,690,0.644348
+2011-09-13,2011,September,Tuesday,Autumn,Clear,4763,4062,701,0.650833
+2011-09-14,2011,September,Wednesday,Autumn,Clear,4785,4138,647,0.673333
+2011-09-15,2011,September,Thursday,Autumn,Partly Cloudy,3659,3231,428,0.5775
+2011-09-16,2011,September,Friday,Autumn,Partly Cloudy,4760,4018,742,0.469167
+2011-09-17,2011,September,Saturday,Autumn,Partly Cloudy,4511,3077,1434,0.491667
+2011-09-18,2011,September,Sunday,Autumn,Clear,4274,2921,1353,0.5075
+2011-09-19,2011,September,Monday,Autumn,Partly Cloudy,4539,3848,691,0.549167
+2011-09-20,2011,September,Tuesday,Autumn,Partly Cloudy,3641,3203,438,0.561667
+2011-09-21,2011,September,Wednesday,Autumn,Partly Cloudy,4352,3813,539,0.595
+2011-09-22,2011,September,Thursday,Autumn,Partly Cloudy,4795,4240,555,0.628333
+2011-09-23,2011,September,Friday,Winter,Partly Cloudy,2395,2137,258,0.609167
+2011-09-24,2011,September,Saturday,Winter,Partly Cloudy,5423,3647,1776,0.606667
+2011-09-25,2011,September,Sunday,Winter,Partly Cloudy,5010,3466,1544,0.634167
+2011-09-26,2011,September,Monday,Winter,Partly Cloudy,4630,3946,684,0.649167
+2011-09-27,2011,September,Tuesday,Winter,Partly Cloudy,4120,3643,477,0.636667
+2011-09-28,2011,September,Wednesday,Winter,Partly Cloudy,3907,3427,480,0.635
+2011-09-29,2011,September,Thursday,Winter,Clear,4839,4186,653,0.616667
+2011-09-30,2011,September,Friday,Winter,Clear,5202,4372,830,0.564167
+2011-10-01,2011,October,Saturday,Winter,Partly Cloudy,2429,1949,480,0.41
+2011-10-02,2011,October,Sunday,Winter,Partly Cloudy,2918,2302,616,0.356667
+2011-10-03,2011,October,Monday,Winter,Partly Cloudy,3570,3240,330,0.384167
+2011-10-04,2011,October,Tuesday,Winter,Clear,4456,3970,486,0.484167
+2011-10-05,2011,October,Wednesday,Winter,Clear,4826,4267,559,0.538333
+2011-10-06,2011,October,Thursday,Winter,Clear,4765,4126,639,0.494167
+2011-10-07,2011,October,Friday,Winter,Clear,4985,4036,949,0.510833
+2011-10-08,2011,October,Saturday,Winter,Clear,5409,3174,2235,0.521667
+2011-10-09,2011,October,Sunday,Winter,Clear,5511,3114,2397,0.540833
+2011-10-10,2011,October,Monday,Winter,Clear,5117,3603,1514,0.570833
+2011-10-11,2011,October,Tuesday,Winter,Partly Cloudy,4563,3896,667,0.566667
+2011-10-12,2011,October,Wednesday,Winter,Light Snow/Rain,2416,2199,217,0.543333
+2011-10-13,2011,October,Thursday,Winter,Partly Cloudy,2913,2623,290,0.589167
+2011-10-14,2011,October,Friday,Winter,Partly Cloudy,3644,3115,529,0.550833
+2011-10-15,2011,October,Saturday,Winter,Clear,5217,3318,1899,0.506667
+2011-10-16,2011,October,Sunday,Winter,Clear,5041,3293,1748,0.511667
+2011-10-17,2011,October,Monday,Winter,Clear,4570,3857,713,0.534167
+2011-10-18,2011,October,Tuesday,Winter,Partly Cloudy,4748,4111,637,0.5325
+2011-10-19,2011,October,Wednesday,Winter,Light Snow/Rain,2424,2170,254,0.541739
+2011-10-20,2011,October,Thursday,Winter,Clear,4195,3724,471,0.475833
+2011-10-21,2011,October,Friday,Winter,Clear,4304,3628,676,0.4275
+2011-10-22,2011,October,Saturday,Winter,Clear,4308,2809,1499,0.4225
+2011-10-23,2011,October,Sunday,Winter,Clear,4381,2762,1619,0.421667
+2011-10-24,2011,October,Monday,Winter,Clear,4187,3488,699,0.463333
+2011-10-25,2011,October,Tuesday,Winter,Clear,4687,3992,695,0.471667
+2011-10-26,2011,October,Wednesday,Winter,Partly Cloudy,3894,3490,404,0.484167
+2011-10-27,2011,October,Thursday,Winter,Partly Cloudy,2659,2419,240,0.47
+2011-10-28,2011,October,Friday,Winter,Partly Cloudy,3747,3291,456,0.330833
+2011-10-29,2011,October,Saturday,Winter,Light Snow/Rain,627,570,57,0.254167
+2011-10-30,2011,October,Sunday,Winter,Clear,3331,2446,885,0.319167
+2011-10-31,2011,October,Monday,Winter,Clear,3669,3307,362,0.34
+2011-11-01,2011,November,Tuesday,Winter,Clear,4068,3658,410,0.400833
+2011-11-02,2011,November,Wednesday,Winter,Clear,4186,3816,370,0.3775
+2011-11-03,2011,November,Thursday,Winter,Clear,3974,3656,318,0.408333
+2011-11-04,2011,November,Friday,Winter,Partly Cloudy,4046,3576,470,0.403333
+2011-11-05,2011,November,Saturday,Winter,Clear,3926,2770,1156,0.326667
+2011-11-06,2011,November,Sunday,Winter,Clear,3649,2697,952,0.348333
+2011-11-07,2011,November,Monday,Winter,Clear,4035,3662,373,0.395
+2011-11-08,2011,November,Tuesday,Winter,Clear,4205,3829,376,0.408333
+2011-11-09,2011,November,Wednesday,Winter,Clear,4109,3804,305,0.4
+2011-11-10,2011,November,Thursday,Winter,Partly Cloudy,2933,2743,190,0.38
+2011-11-11,2011,November,Friday,Winter,Clear,3368,2928,440,0.324167
+2011-11-12,2011,November,Saturday,Winter,Clear,4067,2792,1275,0.356667
+2011-11-13,2011,November,Sunday,Winter,Clear,3717,2713,1004,0.440833
+2011-11-14,2011,November,Monday,Winter,Clear,4486,3891,595,0.53
+2011-11-15,2011,November,Tuesday,Winter,Partly Cloudy,4195,3746,449,0.53
+2011-11-16,2011,November,Wednesday,Winter,Light Snow/Rain,1817,1672,145,0.456667
+2011-11-17,2011,November,Thursday,Winter,Partly Cloudy,3053,2914,139,0.341667
+2011-11-18,2011,November,Friday,Winter,Clear,3392,3147,245,0.274167
+2011-11-19,2011,November,Saturday,Winter,Clear,3663,2720,943,0.329167
+2011-11-20,2011,November,Sunday,Winter,Partly Cloudy,3520,2733,787,0.463333
+2011-11-21,2011,November,Monday,Winter,Light Snow/Rain,2765,2545,220,0.4475
+2011-11-22,2011,November,Tuesday,Winter,Light Snow/Rain,1607,1538,69,0.416667
+2011-11-23,2011,November,Wednesday,Winter,Partly Cloudy,2566,2454,112,0.440833
+2011-11-24,2011,November,Thursday,Winter,Clear,1495,935,560,0.373333
+2011-11-25,2011,November,Friday,Winter,Clear,2792,1697,1095,0.375
+2011-11-26,2011,November,Saturday,Winter,Clear,3068,1819,1249,0.375833
+2011-11-27,2011,November,Sunday,Winter,Clear,3071,2261,810,0.459167
+2011-11-28,2011,November,Monday,Winter,Clear,3867,3614,253,0.503478
+2011-11-29,2011,November,Tuesday,Winter,Partly Cloudy,2914,2818,96,0.458333
+2011-11-30,2011,November,Wednesday,Winter,Clear,3613,3425,188,0.325
+2011-12-01,2011,December,Thursday,Winter,Clear,3727,3545,182,0.3125
+2011-12-02,2011,December,Friday,Winter,Clear,3940,3672,268,0.314167
+2011-12-03,2011,December,Saturday,Winter,Clear,3614,2908,706,0.299167
+2011-12-04,2011,December,Sunday,Winter,Clear,3485,2851,634,0.330833
+2011-12-05,2011,December,Monday,Winter,Partly Cloudy,3811,3578,233,0.385833
+2011-12-06,2011,December,Tuesday,Winter,Light Snow/Rain,2594,2468,126,0.4625
+2011-12-07,2011,December,Wednesday,Winter,Light Snow/Rain,705,655,50,0.41
+2011-12-08,2011,December,Thursday,Winter,Clear,3322,3172,150,0.265833
+2011-12-09,2011,December,Friday,Winter,Clear,3620,3359,261,0.290833
+2011-12-10,2011,December,Saturday,Winter,Clear,3190,2688,502,0.275
+2011-12-11,2011,December,Sunday,Winter,Clear,2743,2366,377,0.220833
+2011-12-12,2011,December,Monday,Winter,Clear,3310,3167,143,0.238333
+2011-12-13,2011,December,Tuesday,Winter,Clear,3523,3368,155,0.2825
+2011-12-14,2011,December,Wednesday,Winter,Partly Cloudy,3740,3562,178,0.3175
+2011-12-15,2011,December,Thursday,Winter,Partly Cloudy,3709,3528,181,0.4225
+2011-12-16,2011,December,Friday,Winter,Partly Cloudy,3577,3399,178,0.375
+2011-12-17,2011,December,Saturday,Winter,Partly Cloudy,2739,2464,275,0.258333
+2011-12-18,2011,December,Sunday,Winter,Clear,2431,2211,220,0.238333
+2011-12-19,2011,December,Monday,Winter,Clear,3403,3143,260,0.276667
+2011-12-20,2011,December,Tuesday,Winter,Partly Cloudy,3750,3534,216,0.385833
+2011-12-21,2011,December,Wednesday,Spring,Partly Cloudy,2660,2553,107,0.428333
+2011-12-22,2011,December,Thursday,Spring,Partly Cloudy,3068,2841,227,0.423333
+2011-12-23,2011,December,Friday,Spring,Clear,2209,2046,163,0.373333
+2011-12-24,2011,December,Saturday,Spring,Clear,1011,856,155,0.3025
+2011-12-25,2011,December,Sunday,Spring,Clear,754,451,303,0.274783
+2011-12-26,2011,December,Monday,Spring,Clear,1317,887,430,0.321739
+2011-12-27,2011,December,Tuesday,Spring,Partly Cloudy,1162,1059,103,0.325
+2011-12-28,2011,December,Wednesday,Spring,Clear,2302,2047,255,0.29913
+2011-12-29,2011,December,Thursday,Spring,Clear,2423,2169,254,0.248333
+2011-12-30,2011,December,Friday,Spring,Clear,2999,2508,491,0.311667
+2011-12-31,2011,December,Saturday,Spring,Clear,2485,1820,665,0.41
+2012-01-01,2012,January,Sunday,Spring,Clear,2294,1608,686,0.37
+2012-01-02,2012,January,Monday,Spring,Clear,1951,1707,244,0.273043
+2012-01-03,2012,January,Tuesday,Spring,Clear,2236,2147,89,0.15
+2012-01-04,2012,January,Wednesday,Spring,Partly Cloudy,2368,2273,95,0.1075
+2012-01-05,2012,January,Thursday,Spring,Clear,3272,3132,140,0.265833
+2012-01-06,2012,January,Friday,Spring,Clear,4098,3791,307,0.334167
+2012-01-07,2012,January,Saturday,Spring,Clear,4521,3451,1070,0.393333
+2012-01-08,2012,January,Sunday,Spring,Clear,3425,2826,599,0.3375
+2012-01-09,2012,January,Monday,Spring,Partly Cloudy,2376,2270,106,0.224167
+2012-01-10,2012,January,Tuesday,Spring,Clear,3598,3425,173,0.308696
+2012-01-11,2012,January,Wednesday,Spring,Partly Cloudy,2177,2085,92,0.274167
+2012-01-12,2012,January,Thursday,Spring,Partly Cloudy,4097,3828,269,0.3825
+2012-01-13,2012,January,Friday,Spring,Clear,3214,3040,174,0.274167
+2012-01-14,2012,January,Saturday,Spring,Clear,2493,2160,333,0.18
+2012-01-15,2012,January,Sunday,Spring,Clear,2311,2027,284,0.166667
+2012-01-16,2012,January,Monday,Spring,Clear,2298,2081,217,0.19
+2012-01-17,2012,January,Tuesday,Spring,Partly Cloudy,2935,2808,127,0.373043
+2012-01-18,2012,January,Wednesday,Spring,Clear,3376,3267,109,0.303333
+2012-01-19,2012,January,Thursday,Spring,Clear,3292,3162,130,0.19
+2012-01-20,2012,January,Friday,Spring,Partly Cloudy,3163,3048,115,0.2175
+2012-01-21,2012,January,Saturday,Spring,Partly Cloudy,1301,1234,67,0.173333
+2012-01-22,2012,January,Sunday,Spring,Partly Cloudy,1977,1781,196,0.1625
+2012-01-23,2012,January,Monday,Spring,Partly Cloudy,2432,2287,145,0.218333
+2012-01-24,2012,January,Tuesday,Spring,Clear,4339,3900,439,0.3425
+2012-01-25,2012,January,Wednesday,Spring,Clear,4270,3803,467,0.294167
+2012-01-26,2012,January,Thursday,Spring,Partly Cloudy,4075,3831,244,0.341667
+2012-01-27,2012,January,Friday,Spring,Partly Cloudy,3456,3187,269,0.425
+2012-01-28,2012,January,Saturday,Spring,Clear,4023,3248,775,0.315833
+2012-01-29,2012,January,Sunday,Spring,Clear,3243,2685,558,0.2825
+2012-01-30,2012,January,Monday,Spring,Clear,3624,3498,126,0.269167
+2012-01-31,2012,January,Tuesday,Spring,Clear,4509,4185,324,0.39
+2012-02-01,2012,February,Wednesday,Spring,Clear,4579,4275,304,0.469167
+2012-02-02,2012,February,Thursday,Spring,Partly Cloudy,3761,3571,190,0.399167
+2012-02-03,2012,February,Friday,Spring,Clear,4151,3841,310,0.313333
+2012-02-04,2012,February,Saturday,Spring,Partly Cloudy,2832,2448,384,0.264167
+2012-02-05,2012,February,Sunday,Spring,Partly Cloudy,2947,2629,318,0.265833
+2012-02-06,2012,February,Monday,Spring,Clear,3784,3578,206,0.282609
+2012-02-07,2012,February,Tuesday,Spring,Clear,4375,4176,199,0.354167
+2012-02-08,2012,February,Wednesday,Spring,Partly Cloudy,2802,2693,109,0.256667
+2012-02-09,2012,February,Thursday,Spring,Clear,3830,3667,163,0.265
+2012-02-10,2012,February,Friday,Spring,Partly Cloudy,3831,3604,227,0.280833
+2012-02-11,2012,February,Saturday,Spring,Light Snow/Rain,2169,1977,192,0.224167
+2012-02-12,2012,February,Sunday,Spring,Clear,1529,1456,73,0.1275
+2012-02-13,2012,February,Monday,Spring,Clear,3422,3328,94,0.2225
+2012-02-14,2012,February,Tuesday,Spring,Partly Cloudy,3922,3787,135,0.319167
+2012-02-15,2012,February,Wednesday,Spring,Clear,4169,4028,141,0.348333
+2012-02-16,2012,February,Thursday,Spring,Partly Cloudy,3005,2931,74,0.316667
+2012-02-17,2012,February,Friday,Spring,Clear,4154,3805,349,0.343333
+2012-02-18,2012,February,Saturday,Spring,Clear,4318,2883,1435,0.346667
+2012-02-19,2012,February,Sunday,Spring,Partly Cloudy,2689,2071,618,0.28
+2012-02-20,2012,February,Monday,Spring,Clear,3129,2627,502,0.28
+2012-02-21,2012,February,Tuesday,Spring,Clear,3777,3614,163,0.287826
+2012-02-22,2012,February,Wednesday,Spring,Clear,4773,4379,394,0.395833
+2012-02-23,2012,February,Thursday,Spring,Clear,5062,4546,516,0.454167
+2012-02-24,2012,February,Friday,Spring,Partly Cloudy,3487,3241,246,0.4075
+2012-02-25,2012,February,Saturday,Spring,Clear,2732,2415,317,0.290833
+2012-02-26,2012,February,Sunday,Spring,Clear,3389,2874,515,0.279167
+2012-02-27,2012,February,Monday,Spring,Clear,4322,4069,253,0.366667
+2012-02-28,2012,February,Tuesday,Spring,Clear,4363,4134,229,0.359167
+2012-02-29,2012,February,Wednesday,Spring,Partly Cloudy,1834,1769,65,0.344348
+2012-03-01,2012,March,Thursday,Spring,Clear,4990,4665,325,0.485833
+2012-03-02,2012,March,Friday,Spring,Partly Cloudy,3194,2948,246,0.353333
+2012-03-03,2012,March,Saturday,Spring,Partly Cloudy,4066,3110,956,0.414167
+2012-03-04,2012,March,Sunday,Spring,Clear,3423,2713,710,0.325833
+2012-03-05,2012,March,Monday,Spring,Clear,3333,3130,203,0.243333
+2012-03-06,2012,March,Tuesday,Spring,Clear,3956,3735,221,0.258333
+2012-03-07,2012,March,Wednesday,Spring,Clear,4916,4484,432,0.404167
+2012-03-08,2012,March,Thursday,Spring,Clear,5382,4896,486,0.5275
+2012-03-09,2012,March,Friday,Spring,Partly Cloudy,4569,4122,447,0.410833
+2012-03-10,2012,March,Saturday,Spring,Clear,4118,3150,968,0.2875
+2012-03-11,2012,March,Sunday,Spring,Clear,4911,3253,1658,0.361739
+2012-03-12,2012,March,Monday,Spring,Clear,5298,4460,838,0.466667
+2012-03-13,2012,March,Tuesday,Spring,Clear,5847,5085,762,0.565
+2012-03-14,2012,March,Wednesday,Spring,Clear,6312,5315,997,0.5725
+2012-03-15,2012,March,Thursday,Spring,Clear,6192,5187,1005,0.5575
+2012-03-16,2012,March,Friday,Spring,Partly Cloudy,4378,3830,548,0.435833
+2012-03-17,2012,March,Saturday,Spring,Partly Cloudy,7836,4681,3155,0.514167
+2012-03-18,2012,March,Sunday,Spring,Partly Cloudy,5892,3685,2207,0.4725
+2012-03-19,2012,March,Monday,Spring,Clear,6153,5171,982,0.545
+2012-03-20,2012,March,Tuesday,Spring,Clear,6093,5042,1051,0.560833
+2012-03-21,2012,March,Wednesday,Summer,Partly Cloudy,6230,5108,1122,0.531667
+2012-03-22,2012,March,Thursday,Summer,Clear,6871,5537,1334,0.554167
+2012-03-23,2012,March,Friday,Summer,Partly Cloudy,8362,5893,2469,0.601667
+2012-03-24,2012,March,Saturday,Summer,Partly Cloudy,3372,2339,1033,0.5025
+2012-03-25,2012,March,Sunday,Summer,Partly Cloudy,4996,3464,1532,0.4375
+2012-03-26,2012,March,Monday,Summer,Clear,5558,4763,795,0.445833
+2012-03-27,2012,March,Tuesday,Summer,Clear,5102,4571,531,0.323333
+2012-03-28,2012,March,Wednesday,Summer,Clear,5698,5024,674,0.484167
+2012-03-29,2012,March,Thursday,Summer,Clear,6133,5299,834,0.494167
+2012-03-30,2012,March,Friday,Summer,Partly Cloudy,5459,4663,796,0.37
+2012-03-31,2012,March,Saturday,Summer,Partly Cloudy,6235,3934,2301,0.424167
+2012-04-01,2012,April,Sunday,Summer,Partly Cloudy,6041,3694,2347,0.425833
+2012-04-02,2012,April,Monday,Summer,Clear,5936,4728,1208,0.433913
+2012-04-03,2012,April,Tuesday,Summer,Clear,6772,5424,1348,0.466667
+2012-04-04,2012,April,Wednesday,Summer,Clear,6436,5378,1058,0.541667
+2012-04-05,2012,April,Thursday,Summer,Clear,6457,5265,1192,0.435
+2012-04-06,2012,April,Friday,Summer,Clear,6460,4653,1807,0.403333
+2012-04-07,2012,April,Saturday,Summer,Clear,6857,3605,3252,0.4375
+2012-04-08,2012,April,Sunday,Summer,Clear,5169,2939,2230,0.5
+2012-04-09,2012,April,Monday,Summer,Clear,5585,4680,905,0.489167
+2012-04-10,2012,April,Tuesday,Summer,Clear,5918,5099,819,0.446667
+2012-04-11,2012,April,Wednesday,Summer,Clear,4862,4380,482,0.348696
+2012-04-12,2012,April,Thursday,Summer,Clear,5409,4746,663,0.3975
+2012-04-13,2012,April,Friday,Summer,Clear,6398,5146,1252,0.4425
+2012-04-14,2012,April,Saturday,Summer,Clear,7460,4665,2795,0.495
+2012-04-15,2012,April,Sunday,Summer,Clear,7132,4286,2846,0.606667
+2012-04-16,2012,April,Monday,Summer,Clear,6370,5172,1198,0.664167
+2012-04-17,2012,April,Tuesday,Summer,Clear,6691,5702,989,0.608333
+2012-04-18,2012,April,Wednesday,Summer,Partly Cloudy,4367,4020,347,0.463333
+2012-04-19,2012,April,Thursday,Summer,Clear,6565,5719,846,0.498333
+2012-04-20,2012,April,Friday,Summer,Clear,7290,5950,1340,0.526667
+2012-04-21,2012,April,Saturday,Summer,Clear,6624,4083,2541,0.57
+2012-04-22,2012,April,Sunday,Summer,Light Snow/Rain,1027,907,120,0.396667
+2012-04-23,2012,April,Monday,Summer,Partly Cloudy,3214,3019,195,0.321667
+2012-04-24,2012,April,Tuesday,Summer,Clear,5633,5115,518,0.413333
+2012-04-25,2012,April,Wednesday,Summer,Clear,6196,5541,655,0.476667
+2012-04-26,2012,April,Thursday,Summer,Partly Cloudy,5026,4551,475,0.498333
+2012-04-27,2012,April,Friday,Summer,Clear,6233,5219,1014,0.4575
+2012-04-28,2012,April,Saturday,Summer,Partly Cloudy,4220,3100,1120,0.376667
+2012-04-29,2012,April,Sunday,Summer,Clear,6304,4075,2229,0.458333
+2012-04-30,2012,April,Monday,Summer,Partly Cloudy,5572,4907,665,0.464167
+2012-05-01,2012,May,Tuesday,Summer,Partly Cloudy,5740,5087,653,0.613333
+2012-05-02,2012,May,Wednesday,Summer,Clear,6169,5502,667,0.564167
+2012-05-03,2012,May,Thursday,Summer,Partly Cloudy,6421,5657,764,0.56
+2012-05-04,2012,May,Friday,Summer,Clear,6296,5227,1069,0.6275
+2012-05-05,2012,May,Saturday,Summer,Partly Cloudy,6883,4387,2496,0.621667
+2012-05-06,2012,May,Sunday,Summer,Partly Cloudy,6359,4224,2135,0.5625
+2012-05-07,2012,May,Monday,Summer,Partly Cloudy,6273,5265,1008,0.5375
+2012-05-08,2012,May,Tuesday,Summer,Partly Cloudy,5728,4990,738,0.581667
+2012-05-09,2012,May,Wednesday,Summer,Partly Cloudy,4717,4097,620,0.575
+2012-05-10,2012,May,Thursday,Summer,Clear,6572,5546,1026,0.505833
+2012-05-11,2012,May,Friday,Summer,Clear,7030,5711,1319,0.533333
+2012-05-12,2012,May,Saturday,Summer,Clear,7429,4807,2622,0.564167
+2012-05-13,2012,May,Sunday,Summer,Clear,6118,3946,2172,0.6125
+2012-05-14,2012,May,Monday,Summer,Partly Cloudy,2843,2501,342,0.573333
+2012-05-15,2012,May,Tuesday,Summer,Partly Cloudy,5115,4490,625,0.611667
+2012-05-16,2012,May,Wednesday,Summer,Clear,7424,6433,991,0.636667
+2012-05-17,2012,May,Thursday,Summer,Clear,7384,6142,1242,0.593333
+2012-05-18,2012,May,Friday,Summer,Clear,7639,6118,1521,0.564167
+2012-05-19,2012,May,Saturday,Summer,Clear,8294,4884,3410,0.6
+2012-05-20,2012,May,Sunday,Summer,Clear,7129,4425,2704,0.620833
+2012-05-21,2012,May,Monday,Summer,Partly Cloudy,4359,3729,630,0.598333
+2012-05-22,2012,May,Tuesday,Summer,Partly Cloudy,6073,5254,819,0.615
+2012-05-23,2012,May,Wednesday,Summer,Partly Cloudy,5260,4494,766,0.621667
+2012-05-24,2012,May,Thursday,Summer,Clear,6770,5711,1059,0.655
+2012-05-25,2012,May,Friday,Summer,Clear,6734,5317,1417,0.68
+2012-05-26,2012,May,Saturday,Summer,Clear,6536,3681,2855,0.6925
+2012-05-27,2012,May,Sunday,Summer,Clear,6591,3308,3283,0.69
+2012-05-28,2012,May,Monday,Summer,Clear,6043,3486,2557,0.7125
+2012-05-29,2012,May,Tuesday,Summer,Clear,5743,4863,880,0.7225
+2012-05-30,2012,May,Wednesday,Summer,Partly Cloudy,6855,6110,745,0.656667
+2012-05-31,2012,May,Thursday,Summer,Clear,7338,6238,1100,0.68
+2012-06-01,2012,June,Friday,Summer,Partly Cloudy,4127,3594,533,0.654167
+2012-06-02,2012,June,Saturday,Summer,Clear,8120,5325,2795,0.583333
+2012-06-03,2012,June,Sunday,Summer,Clear,7641,5147,2494,0.6025
+2012-06-04,2012,June,Monday,Summer,Clear,6998,5927,1071,0.5975
+2012-06-05,2012,June,Tuesday,Summer,Partly Cloudy,7001,6033,968,0.540833
+2012-06-06,2012,June,Wednesday,Summer,Clear,7055,6028,1027,0.554167
+2012-06-07,2012,June,Thursday,Summer,Clear,7494,6456,1038,0.6025
+2012-06-08,2012,June,Friday,Summer,Clear,7736,6248,1488,0.649167
+2012-06-09,2012,June,Saturday,Summer,Clear,7498,4790,2708,0.710833
+2012-06-10,2012,June,Sunday,Summer,Clear,6598,4374,2224,0.726667
+2012-06-11,2012,June,Monday,Summer,Partly Cloudy,6664,5647,1017,0.720833
+2012-06-12,2012,June,Tuesday,Summer,Partly Cloudy,4972,4495,477,0.653333
+2012-06-13,2012,June,Wednesday,Summer,Clear,7421,6248,1173,0.655833
+2012-06-14,2012,June,Thursday,Summer,Clear,7363,6183,1180,0.648333
+2012-06-15,2012,June,Friday,Summer,Clear,7665,6102,1563,0.639167
+2012-06-16,2012,June,Saturday,Summer,Clear,7702,4739,2963,0.631667
+2012-06-17,2012,June,Sunday,Summer,Clear,6978,4344,2634,0.5925
+2012-06-18,2012,June,Monday,Summer,Partly Cloudy,5099,4446,653,0.568333
+2012-06-19,2012,June,Tuesday,Summer,Clear,6825,5857,968,0.688333
+2012-06-20,2012,June,Wednesday,Summer,Clear,6211,5339,872,0.7825
+2012-06-21,2012,June,Thursday,Autumn,Clear,5905,5127,778,0.805833
+2012-06-22,2012,June,Friday,Autumn,Clear,5823,4859,964,0.7775
+2012-06-23,2012,June,Saturday,Autumn,Clear,7458,4801,2657,0.731667
+2012-06-24,2012,June,Sunday,Autumn,Clear,6891,4340,2551,0.743333
+2012-06-25,2012,June,Monday,Autumn,Clear,6779,5640,1139,0.715833
+2012-06-26,2012,June,Tuesday,Autumn,Clear,7442,6365,1077,0.630833
+2012-06-27,2012,June,Wednesday,Autumn,Clear,7335,6258,1077,0.6975
+2012-06-28,2012,June,Thursday,Autumn,Clear,6879,5958,921,0.749167
+2012-06-29,2012,June,Friday,Autumn,Clear,5463,4634,829,0.834167
+2012-06-30,2012,June,Saturday,Autumn,Clear,5687,4232,1455,0.765
+2012-07-01,2012,July,Sunday,Autumn,Clear,5531,4110,1421,0.815833
+2012-07-02,2012,July,Monday,Autumn,Clear,6227,5323,904,0.781667
+2012-07-03,2012,July,Tuesday,Autumn,Clear,6660,5608,1052,0.780833
+2012-07-04,2012,July,Wednesday,Autumn,Clear,7403,4841,2562,0.789167
+2012-07-05,2012,July,Thursday,Autumn,Clear,6241,4836,1405,0.8275
+2012-07-06,2012,July,Friday,Autumn,Clear,6207,4841,1366,0.828333
+2012-07-07,2012,July,Saturday,Autumn,Clear,4840,3392,1448,0.861667
+2012-07-08,2012,July,Sunday,Autumn,Clear,4672,3469,1203,0.8225
+2012-07-09,2012,July,Monday,Autumn,Partly Cloudy,6569,5571,998,0.710833
+2012-07-10,2012,July,Tuesday,Autumn,Partly Cloudy,6290,5336,954,0.720833
+2012-07-11,2012,July,Wednesday,Autumn,Clear,7264,6289,975,0.716667
+2012-07-12,2012,July,Thursday,Autumn,Clear,7446,6414,1032,0.715833
+2012-07-13,2012,July,Friday,Autumn,Partly Cloudy,7499,5988,1511,0.731667
+2012-07-14,2012,July,Saturday,Autumn,Partly Cloudy,6969,4614,2355,0.703333
+2012-07-15,2012,July,Sunday,Autumn,Clear,6031,4111,1920,0.745833
+2012-07-16,2012,July,Monday,Autumn,Clear,6830,5742,1088,0.763333
+2012-07-17,2012,July,Tuesday,Autumn,Clear,6786,5865,921,0.818333
+2012-07-18,2012,July,Wednesday,Autumn,Clear,5713,4914,799,0.793333
+2012-07-19,2012,July,Thursday,Autumn,Clear,6591,5703,888,0.77
+2012-07-20,2012,July,Friday,Autumn,Partly Cloudy,5870,5123,747,0.665833
+2012-07-21,2012,July,Saturday,Autumn,Light Snow/Rain,4459,3195,1264,0.595833
+2012-07-22,2012,July,Sunday,Autumn,Partly Cloudy,7410,4866,2544,0.6675
+2012-07-23,2012,July,Monday,Autumn,Clear,6966,5831,1135,0.741667
+2012-07-24,2012,July,Tuesday,Autumn,Clear,7592,6452,1140,0.750833
+2012-07-25,2012,July,Wednesday,Autumn,Clear,8173,6790,1383,0.724167
+2012-07-26,2012,July,Thursday,Autumn,Clear,6861,5825,1036,0.776667
+2012-07-27,2012,July,Friday,Autumn,Clear,6904,5645,1259,0.781667
+2012-07-28,2012,July,Saturday,Autumn,Clear,6685,4451,2234,0.755833
+2012-07-29,2012,July,Sunday,Autumn,Clear,6597,4444,2153,0.721667
+2012-07-30,2012,July,Monday,Autumn,Clear,7105,6065,1040,0.730833
+2012-07-31,2012,July,Tuesday,Autumn,Clear,7216,6248,968,0.713333
+2012-08-01,2012,August,Wednesday,Autumn,Clear,7580,6506,1074,0.7175
+2012-08-02,2012,August,Thursday,Autumn,Clear,7261,6278,983,0.7525
+2012-08-03,2012,August,Friday,Autumn,Partly Cloudy,7175,5847,1328,0.765833
+2012-08-04,2012,August,Saturday,Autumn,Clear,6824,4479,2345,0.793333
+2012-08-05,2012,August,Sunday,Autumn,Clear,5464,3757,1707,0.769167
+2012-08-06,2012,August,Monday,Autumn,Partly Cloudy,7013,5780,1233,0.7525
+2012-08-07,2012,August,Tuesday,Autumn,Partly Cloudy,7273,5995,1278,0.735833
+2012-08-08,2012,August,Wednesday,Autumn,Partly Cloudy,7534,6271,1263,0.75
+2012-08-09,2012,August,Thursday,Autumn,Clear,7286,6090,1196,0.755833
+2012-08-10,2012,August,Friday,Autumn,Partly Cloudy,5786,4721,1065,0.715833
+2012-08-11,2012,August,Saturday,Autumn,Partly Cloudy,6299,4052,2247,0.6925
+2012-08-12,2012,August,Sunday,Autumn,Clear,6544,4362,2182,0.700833
+2012-08-13,2012,August,Monday,Autumn,Clear,6883,5676,1207,0.720833
+2012-08-14,2012,August,Tuesday,Autumn,Clear,6784,5656,1128,0.726667
+2012-08-15,2012,August,Wednesday,Autumn,Clear,7347,6149,1198,0.706667
+2012-08-16,2012,August,Thursday,Autumn,Clear,7605,6267,1338,0.719167
+2012-08-17,2012,August,Friday,Autumn,Clear,7148,5665,1483,0.723333
+2012-08-18,2012,August,Saturday,Autumn,Clear,7865,5038,2827,0.678333
+2012-08-19,2012,August,Sunday,Autumn,Partly Cloudy,4549,3341,1208,0.635833
+2012-08-20,2012,August,Monday,Autumn,Partly Cloudy,6530,5504,1026,0.635833
+2012-08-21,2012,August,Tuesday,Autumn,Clear,7006,5925,1081,0.649167
+2012-08-22,2012,August,Wednesday,Autumn,Clear,7375,6281,1094,0.6675
+2012-08-23,2012,August,Thursday,Autumn,Clear,7765,6402,1363,0.695833
+2012-08-24,2012,August,Friday,Autumn,Partly Cloudy,7582,6257,1325,0.7025
+2012-08-25,2012,August,Saturday,Autumn,Partly Cloudy,6053,4224,1829,0.661667
+2012-08-26,2012,August,Sunday,Autumn,Partly Cloudy,5255,3772,1483,0.653333
+2012-08-27,2012,August,Monday,Autumn,Clear,6917,5928,989,0.703333
+2012-08-28,2012,August,Tuesday,Autumn,Clear,7040,6105,935,0.728333
+2012-08-29,2012,August,Wednesday,Autumn,Clear,7697,6520,1177,0.685
+2012-08-30,2012,August,Thursday,Autumn,Clear,7713,6541,1172,0.706667
+2012-08-31,2012,August,Friday,Autumn,Clear,7350,5917,1433,0.764167
+2012-09-01,2012,September,Saturday,Autumn,Partly Cloudy,6140,3788,2352,0.753333
+2012-09-02,2012,September,Sunday,Autumn,Partly Cloudy,5810,3197,2613,0.696667
+2012-09-03,2012,September,Monday,Autumn,Clear,6034,4069,1965,0.7075
+2012-09-04,2012,September,Tuesday,Autumn,Clear,6864,5997,867,0.725833
+2012-09-05,2012,September,Wednesday,Autumn,Clear,7112,6280,832,0.736667
+2012-09-06,2012,September,Thursday,Autumn,Partly Cloudy,6203,5592,611,0.696667
+2012-09-07,2012,September,Friday,Autumn,Clear,7504,6459,1045,0.703333
+2012-09-08,2012,September,Saturday,Autumn,Partly Cloudy,5976,4419,1557,0.659167
+2012-09-09,2012,September,Sunday,Autumn,Clear,8227,5657,2570,0.61
+2012-09-10,2012,September,Monday,Autumn,Clear,7525,6407,1118,0.583333
+2012-09-11,2012,September,Tuesday,Autumn,Clear,7767,6697,1070,0.5775
+2012-09-12,2012,September,Wednesday,Autumn,Clear,7870,6820,1050,0.599167
+2012-09-13,2012,September,Thursday,Autumn,Clear,7804,6750,1054,0.6125
+2012-09-14,2012,September,Friday,Autumn,Clear,8009,6630,1379,0.633333
+2012-09-15,2012,September,Saturday,Autumn,Clear,8714,5554,3160,0.608333
+2012-09-16,2012,September,Sunday,Autumn,Clear,7333,5167,2166,0.58
+2012-09-17,2012,September,Monday,Autumn,Partly Cloudy,6869,5847,1022,0.580833
+2012-09-18,2012,September,Tuesday,Autumn,Partly Cloudy,4073,3702,371,0.623333
+2012-09-19,2012,September,Wednesday,Autumn,Clear,7591,6803,788,0.5525
+2012-09-20,2012,September,Thursday,Autumn,Clear,7720,6781,939,0.546667
+2012-09-21,2012,September,Friday,Autumn,Clear,8167,6917,1250,0.599167
+2012-09-22,2012,September,Saturday,Autumn,Clear,8395,5883,2512,0.65
+2012-09-23,2012,September,Sunday,Winter,Clear,7907,5453,2454,0.529167
+2012-09-24,2012,September,Monday,Winter,Clear,7436,6435,1001,0.514167
+2012-09-25,2012,September,Tuesday,Winter,Clear,7538,6693,845,0.55
+2012-09-26,2012,September,Wednesday,Winter,Clear,7733,6946,787,0.635
+2012-09-27,2012,September,Thursday,Winter,Partly Cloudy,7393,6642,751,0.65
+2012-09-28,2012,September,Friday,Winter,Partly Cloudy,7415,6370,1045,0.619167
+2012-09-29,2012,September,Saturday,Winter,Clear,8555,5966,2589,0.5425
+2012-09-30,2012,September,Sunday,Winter,Clear,6889,4874,2015,0.526667
+2012-10-01,2012,October,Monday,Winter,Partly Cloudy,6778,6015,763,0.520833
+2012-10-02,2012,October,Tuesday,Winter,Light Snow/Rain,4639,4324,315,0.590833
+2012-10-03,2012,October,Wednesday,Winter,Partly Cloudy,7572,6844,728,0.6575
+2012-10-04,2012,October,Thursday,Winter,Partly Cloudy,7328,6437,891,0.6575
+2012-10-05,2012,October,Friday,Winter,Clear,8156,6640,1516,0.615
+2012-10-06,2012,October,Saturday,Winter,Clear,7965,4934,3031,0.554167
+2012-10-07,2012,October,Sunday,Winter,Partly Cloudy,3510,2729,781,0.415833
+2012-10-08,2012,October,Monday,Winter,Partly Cloudy,5478,4604,874,0.383333
+2012-10-09,2012,October,Tuesday,Winter,Partly Cloudy,6392,5791,601,0.446667
+2012-10-10,2012,October,Wednesday,Winter,Clear,7691,6911,780,0.514167
+2012-10-11,2012,October,Thursday,Winter,Clear,7570,6736,834,0.435
+2012-10-12,2012,October,Friday,Winter,Clear,7282,6222,1060,0.4375
+2012-10-13,2012,October,Saturday,Winter,Clear,7109,4857,2252,0.393333
+2012-10-14,2012,October,Sunday,Winter,Clear,6639,4559,2080,0.521667
+2012-10-15,2012,October,Monday,Winter,Partly Cloudy,5875,5115,760,0.561667
+2012-10-16,2012,October,Tuesday,Winter,Clear,7534,6612,922,0.468333
+2012-10-17,2012,October,Wednesday,Winter,Clear,7461,6482,979,0.455833
+2012-10-18,2012,October,Thursday,Winter,Partly Cloudy,7509,6501,1008,0.5225
+2012-10-19,2012,October,Friday,Winter,Partly Cloudy,5424,4671,753,0.563333
+2012-10-20,2012,October,Saturday,Winter,Clear,8090,5284,2806,0.484167
+2012-10-21,2012,October,Sunday,Winter,Clear,6824,4692,2132,0.464167
+2012-10-22,2012,October,Monday,Winter,Clear,7058,6228,830,0.4875
+2012-10-23,2012,October,Tuesday,Winter,Clear,7466,6625,841,0.544167
+2012-10-24,2012,October,Wednesday,Winter,Clear,7693,6898,795,0.5875
+2012-10-25,2012,October,Thursday,Winter,Partly Cloudy,7359,6484,875,0.55
+2012-10-26,2012,October,Friday,Winter,Partly Cloudy,7444,6262,1182,0.545833
+2012-10-27,2012,October,Saturday,Winter,Partly Cloudy,7852,5209,2643,0.53
+2012-10-28,2012,October,Sunday,Winter,Partly Cloudy,4459,3461,998,0.4775
+2012-10-29,2012,October,Monday,Winter,Light Snow/Rain,22,20,2,0.44
+2012-10-30,2012,October,Tuesday,Winter,Partly Cloudy,1096,1009,87,0.318182
+2012-10-31,2012,October,Wednesday,Winter,Partly Cloudy,5566,5147,419,0.3575
+2012-11-01,2012,November,Thursday,Winter,Partly Cloudy,5986,5520,466,0.365833
+2012-11-02,2012,November,Friday,Winter,Clear,5847,5229,618,0.355
+2012-11-03,2012,November,Saturday,Winter,Partly Cloudy,5138,4109,1029,0.343333
+2012-11-04,2012,November,Sunday,Winter,Clear,5107,3906,1201,0.325833
+2012-11-05,2012,November,Monday,Winter,Clear,5259,4881,378,0.319167
+2012-11-06,2012,November,Tuesday,Winter,Clear,5686,5220,466,0.280833
+2012-11-07,2012,November,Wednesday,Winter,Partly Cloudy,5035,4709,326,0.295833
+2012-11-08,2012,November,Thursday,Winter,Clear,5315,4975,340,0.352174
+2012-11-09,2012,November,Friday,Winter,Clear,5992,5283,709,0.361667
+2012-11-10,2012,November,Saturday,Winter,Clear,6536,4446,2090,0.389167
+2012-11-11,2012,November,Sunday,Winter,Clear,6852,4562,2290,0.420833
+2012-11-12,2012,November,Monday,Winter,Clear,6269,5172,1097,0.485
+2012-11-13,2012,November,Tuesday,Winter,Partly Cloudy,4094,3767,327,0.343333
+2012-11-14,2012,November,Wednesday,Winter,Clear,5495,5122,373,0.289167
+2012-11-15,2012,November,Thursday,Winter,Partly Cloudy,5445,5125,320,0.321667
+2012-11-16,2012,November,Friday,Winter,Clear,5698,5214,484,0.345
+2012-11-17,2012,November,Saturday,Winter,Clear,5629,4316,1313,0.325
+2012-11-18,2012,November,Sunday,Winter,Clear,4669,3747,922,0.3425
+2012-11-19,2012,November,Monday,Winter,Partly Cloudy,5499,5050,449,0.380833
+2012-11-20,2012,November,Tuesday,Winter,Partly Cloudy,5634,5100,534,0.374167
+2012-11-21,2012,November,Wednesday,Winter,Clear,5146,4531,615,0.353333
+2012-11-22,2012,November,Thursday,Winter,Clear,2425,1470,955,0.34
+2012-11-23,2012,November,Friday,Winter,Clear,3910,2307,1603,0.368333
+2012-11-24,2012,November,Saturday,Winter,Clear,2277,1745,532,0.278333
+2012-11-25,2012,November,Sunday,Winter,Clear,2424,2115,309,0.245833
+2012-11-26,2012,November,Monday,Winter,Clear,5087,4750,337,0.313333
+2012-11-27,2012,November,Tuesday,Winter,Partly Cloudy,3959,3836,123,0.291667
+2012-11-28,2012,November,Wednesday,Winter,Clear,5260,5062,198,0.296667
+2012-11-29,2012,November,Thursday,Winter,Clear,5323,5080,243,0.28087
+2012-11-30,2012,November,Friday,Winter,Clear,5668,5306,362,0.298333
+2012-12-01,2012,December,Saturday,Winter,Partly Cloudy,5191,4240,951,0.298333
+2012-12-02,2012,December,Sunday,Winter,Partly Cloudy,4649,3757,892,0.3475
+2012-12-03,2012,December,Monday,Winter,Clear,6234,5679,555,0.4525
+2012-12-04,2012,December,Tuesday,Winter,Clear,6606,6055,551,0.475833
+2012-12-05,2012,December,Wednesday,Winter,Clear,5729,5398,331,0.438333
+2012-12-06,2012,December,Thursday,Winter,Clear,5375,5035,340,0.255833
+2012-12-07,2012,December,Friday,Winter,Partly Cloudy,5008,4659,349,0.320833
+2012-12-08,2012,December,Saturday,Winter,Partly Cloudy,5582,4429,1153,0.381667
+2012-12-09,2012,December,Sunday,Winter,Partly Cloudy,3228,2787,441,0.384167
+2012-12-10,2012,December,Monday,Winter,Partly Cloudy,5170,4841,329,0.435833
+2012-12-11,2012,December,Tuesday,Winter,Partly Cloudy,5501,5219,282,0.353333
+2012-12-12,2012,December,Wednesday,Winter,Partly Cloudy,5319,5009,310,0.2975
+2012-12-13,2012,December,Thursday,Winter,Clear,5532,5107,425,0.295833
+2012-12-14,2012,December,Friday,Winter,Clear,5611,5182,429,0.281667
+2012-12-15,2012,December,Saturday,Winter,Clear,5047,4280,767,0.324167
+2012-12-16,2012,December,Sunday,Winter,Partly Cloudy,3786,3248,538,0.3625
+2012-12-17,2012,December,Monday,Winter,Partly Cloudy,4585,4373,212,0.393333
+2012-12-18,2012,December,Tuesday,Winter,Clear,5557,5124,433,0.410833
+2012-12-19,2012,December,Wednesday,Winter,Clear,5267,4934,333,0.3325
+2012-12-20,2012,December,Thursday,Winter,Partly Cloudy,4128,3814,314,0.33
+2012-12-21,2012,December,Friday,Spring,Partly Cloudy,3623,3402,221,0.326667
+2012-12-22,2012,December,Saturday,Spring,Clear,1749,1544,205,0.265833
+2012-12-23,2012,December,Sunday,Spring,Clear,1787,1379,408,0.245833
+2012-12-24,2012,December,Monday,Spring,Partly Cloudy,920,746,174,0.231304
+2012-12-25,2012,December,Tuesday,Spring,Partly Cloudy,1013,573,440,0.291304
+2012-12-26,2012,December,Wednesday,Spring,Light Snow/Rain,441,432,9,0.243333
+2012-12-27,2012,December,Thursday,Spring,Partly Cloudy,2114,1867,247,0.254167
+2012-12-28,2012,December,Friday,Spring,Partly Cloudy,3095,2451,644,0.253333
+2012-12-29,2012,December,Saturday,Spring,Partly Cloudy,1341,1182,159,0.253333
+2012-12-30,2012,December,Sunday,Spring,Clear,1796,1432,364,0.255833
+2012-12-31,2012,December,Monday,Spring,Partly Cloudy,2729,2290,439,0.215833
