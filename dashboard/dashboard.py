@@ -177,7 +177,7 @@ with st.sidebar:
     st.title("Yusfi Syawali")
 
     # Logo Image
-    st.image("./dashboard/dicoding.jpg")
+    st.image("./dashboard/profil.jpg")
     # st.image(r'D:\Coding\Bike_Sharing_Analysis\dashboard\profil.jpg')
 
     # Menentukan rentang tanggal untuk data_hour_df
