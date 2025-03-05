@@ -140,8 +140,8 @@ def clustering_by_temp(df):
 
 
 # load data
-data_hour_df = pd.read_csv("../bike_dataset/all_data_hour.csv")
-data_day_df = pd.read_csv("../bike_dataset/all_data_day.csv")
+data_hour_df = pd.read_csv("./bike_dataset/all_data_hour.csv")
+data_day_df = pd.read_csv("./bike_dataset/all_data_day.csv")
 
 # data_hour_df = pd.read_csv(
 #     r'D:\Coding\Bike_Sharing_Analysis\bike_dataset\all_data_hour.csv')
@@ -177,7 +177,7 @@ with st.sidebar:
     st.title("Yusfi Syawali")
 
     # Logo Image
-    st.image("../dashboard/profil.jpg")
+    st.image("./dashboard/profil.jpg")
     # st.image(r'D:\Coding\Bike_Sharing_Analysis\dashboard\profil.jpg')
 
     # Menentukan rentang tanggal untuk data_hour_df
