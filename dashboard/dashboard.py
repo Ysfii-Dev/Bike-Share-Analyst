@@ -140,8 +140,8 @@ def clustering_by_temp(df):
 
 
 # load data
-data_hour_df = pd.read_csv("./bike_dataset/all_data_hour.csv")
-data_day_df = pd.read_csv("./bike_dataset/all_data_day.csv")
+data_hour_df = pd.read_csv("../bike_dataset/all_data_hour.csv")
+data_day_df = pd.read_csv("../bike_dataset/all_data_day.csv")
 
 # data_hour_df = pd.read_csv(
 #     r'D:\Coding\Bike_Sharing_Analysis\bike_dataset\all_data_hour.csv')
@@ -177,7 +177,7 @@ with st.sidebar:
     st.title("Yusfi Syawali")
 
     # Logo Image
-    st.image("./dashboard/profil.jpg")
+    st.image("../dashboard/profil.jpg")
     # st.image(r'D:\Coding\Bike_Sharing_Analysis\dashboard\profil.jpg')
 
     # Menentukan rentang tanggal untuk data_hour_df
@@ -431,8 +431,7 @@ with tab3:
 
     for index, row in cuaca_df.iterrows():
         st.markdown(
-            f"- **{row['weather_description']
-                   }: ** {int(row['total_customer'])} penyewaan"
+            f"- **{row['weather_description']}: ** {int(row['total_customer'])} penyewaan"
         )
 
     fig, ax = plt.subplots(figsize=(20, 12))
@@ -468,13 +467,14 @@ st.write(clustering)
 st.markdown("Visualisasi clustering berdasarkan temperatur:")
 fig, ax = plt.subplots(figsize=(12, 8))
 sns.barplot(x='Cluster Suhu', y='Total Penyewa',
-            data=clustering, palette='viridis')
+            data=clustering, palette=sns.color_palette("Reds", n_colors=len(clustering)))
 ax.set_title("Clustering Berdasarkan Temperatur/Suhu", fontsize=20)
 ax.set_xlabel("Cluster Suhu", fontsize=15)
 ax.set_ylabel("Total Penyewa", fontsize=15)
 ax.tick_params(axis='y', labelsize=12)
 ax.tick_params(axis='x', labelsize=12)
-ax.grid(True)
+ax.grid(axis='y', linestyle='--', alpha=0.4)
+
 
 st.pyplot(fig)
 
